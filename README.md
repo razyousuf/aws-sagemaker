@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```sh
 aws configure
 ```
-Ensure you have the correct IAM permissions.
+Insert your IAM credentials. Please ensure you have the correct IAM permissions.
 
 ---
 ### Requirements
