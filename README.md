@@ -4,7 +4,7 @@
 This project utilizes AWS SageMaker for data processing and machine learning tasks. The workflow includes data preparation, model training, and deployment using AWS services.
 
 ## Setup
-### Install dependencies:
+###### Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
@@ -14,6 +14,7 @@ pip install -r requirements.txt
 aws configure
 ```
 Ensure you have the correct IAM permissions.
+
 ---
 ### Requirements
 * sagemaker
